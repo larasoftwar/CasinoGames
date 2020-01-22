@@ -1,0 +1,1 @@
+print("Bax je kretén :)")
