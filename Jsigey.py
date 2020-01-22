@@ -1,1 +1,0 @@
-print("Bax je kretén :)")
